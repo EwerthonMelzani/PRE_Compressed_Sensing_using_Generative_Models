@@ -10,7 +10,7 @@ the Epochs(I used 30) and the BatchSize(128),for now the results are not so good
 rator , or at least these were what the results suggested(I will train again, asap)  
 
 Image of the actual results:
-![alt text](https://github.com/EwerthonMelzani/PRE_Compressed_Sensing_using_Generative_Models/Example.png "Logo Title Text 1")
+![alt text](Example.png "Logo Title Text 1")
 
 
 ## Second Part
